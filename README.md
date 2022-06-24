@@ -1,5 +1,5 @@
 Professional me
-- 🦚 Software Engineer II at Home Chef 🦚
+- 🦚 Software Engineer at Home Chef 🦚
 - 🍒 Proficient in Ruby + React along with surrounding frameworks and libraries 🍒
 - 🌪 Familiar tools: Heroku, Codeship, Rollbar, AWS, Jenkins 🌪
 
